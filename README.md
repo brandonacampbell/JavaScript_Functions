@@ -11,7 +11,7 @@
 
 ## Exercise 1: Minimum Number
 
-- In the past, we created a selection statement inside a loop that counted from 1 to 100, and only printed out the odd numbers.
+- In the past, we created a selection statement inside a loop that counted from 1 to 100, and only2 printed out the odd numbers.
 - Your task is to write a function printOdds() that takes one parameter, count, and uses a loop and selection statement to count to the number passed in, printing out the odd numbers.
 
 1. Declare a function named `printOdds` using declaration notation (`function <name>(){...}`)
