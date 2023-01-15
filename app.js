@@ -15,7 +15,7 @@ function printOdds(count) {
 
 printOdds(22);
 
-// printOdds(-7); 
+printOdds(-7); 
 
 // Exercise 2 Section
 
@@ -31,7 +31,8 @@ function checkAge(username = 'name', age = '0') {
     }
 
 }
-checkAge('Brandon', '17')
+checkAge('Brandon', '12')
+checkAge('Brandon, 28')
 
 // Exercise 3 Section 
 
